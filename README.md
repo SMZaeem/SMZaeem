@@ -21,7 +21,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 
 ## 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<img src="https://rm.up.railway.app/" width="360px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SMZaeem&icon=1&color=3)](https://visitcount.itsvg.in)
