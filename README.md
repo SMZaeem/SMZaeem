@@ -1,13 +1,13 @@
 ![](https://github.com/SMZaeem/SMZaeem/blob/main/Mobio-Android-Banner.png)
 # Hola amigos 👋
 
-<img src="https://github.com/SMZaeem/SMZaeem/blob/main/finalHI.gif" align="right" width="360px"/>
+<img src="https://github.com/SMZaeem/SMZaeem/blob/main/finalHI.gif" align="right" width="360px"/><br>
 ## 💫 About Me:
 ⚡ I'm a Computer Science student 🧑‍💻, in 2nd year of College 👨‍🎓<br>⚡ I study at the Jaypee University of Information Technology 🎓<br>⚡ I'm an Android App Developer📱<br>⚡ I'm available for Internships and Jobs 👨‍💼<br>⚡ I'm an engrossed learner and a responsible individual🔥
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/s.m_zaeem) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/syed-mohammad-zaeem-0b8280230) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/s.m_zaeem) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/syed-mohammad-zaeem-0b8280230) 
 
 ## 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) 
@@ -26,4 +26,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=SMZaeem&icon=1&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
