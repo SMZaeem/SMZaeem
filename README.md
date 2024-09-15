@@ -1,4 +1,4 @@
-![](https://github.com/SMZaeem/SMZaeem/blob/main/Mobio-Android-Banner.png)
+![](https://github.com/SMZaeem/SMZaeem/blob/954fa41136fe837e9faae7a3c6e07a10dc4acd43/Blue%20%26%20White%20Watercolor%20LinkedIn%20Background%20Photo%20(2).png)
 # 👋 Hola amigos, I'm Zaeem 
 
 <img src="https://github.com/SMZaeem/SMZaeem/blob/main/finalHI.gif" align="right" width="360px"/><br>
